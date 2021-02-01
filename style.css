@@ -34,3 +34,13 @@ body {
   margin-right: auto;
   text-align: center;
 }
+
+.podpunkt table {
+  width: 100%;
+  height: 100%;
+}
+.podpunkt th {
+  width: 50%;
+  height: 300px;
+  text-align: center;
+}
