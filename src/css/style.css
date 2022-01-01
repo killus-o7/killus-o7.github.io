@@ -1,5 +1,5 @@
 body {
-	background-color: white;
+	background: linear-gradient(30deg, hsla(195, 67%, 34%, 1) 0%, hsla(224, 67%, 24%, 1) 26%, hsla(240, 80%, 2%, 1) 100%);
 	width: auto;
 	margin: 0;
 	padding: 0;
@@ -17,6 +17,19 @@ body {
 	background-color: white;
 }
 
-.buttons {
-	
+panel {
+
 }
+
+button {
+
+}
+
+seks {
+	background-color: blue;
+}
+
+.dark-mode {
+	background: linear-gradient(30deg, hsla(240, 56%, 54%, 1) 0%, hsla(197, 86%, 53%, 1) 49%, hsla(182, 78%, 77%, 1) 100%);
+}
+
